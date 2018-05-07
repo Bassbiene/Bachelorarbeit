@@ -1,0 +1,7 @@
+name=AGW-destination
+type=rfc
+User=stoeckan
+Password=Bachelor!17
+jco.client.ashost=agw
+jco.client.client=010
+jco.client.sysnr=00
